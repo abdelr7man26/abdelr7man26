@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**abdelr7man26/abdelr7man26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdelrhman Mohamed, a software developer dedicated to building robust and efficient systems.
 
-Here are some ideas to get you started:
+Currently, I am focused on mastering **.NET** and deepening my knowledge in **Backend Development**, leveraging my strong foundation in **C++** and **Problem Solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Languages:** C++, C#
+* **Databases:** SQL
+* **Core Concepts:** OOP, Data Structures & Algorithms
+
+### 📈 What I'm working on
+* **LeetCode:** Actively solving challenges (99+ problems solved and counting).
+* **Projects:** Transitioning my C++ console projects to full-featured C# / .NET applications.
+* **Learning:** Currently focusing on database design and backend architecture.
+
+### 📬 Let's Connect
+* [LinkedIn](www.linkedin.com/in/abdelrhman-hamed-22361b346)
+* [Email](abdelr7man264@gmail.com)
+
+---
+*Always learning, always coding.*
