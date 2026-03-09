@@ -6,6 +6,7 @@ Currently, I am focused on mastering **.NET** and deepening my knowledge in **Ba
 
 ### 🛠 Tech Stack
 * **Languages:** C++, C#
+* **Technologies/Frameworks: .NET core, ASP.NET Core, .net Framework
 * **Databases:** SQL
 * **Core Concepts:** OOP, Data Structures & Algorithms
 
