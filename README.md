@@ -16,8 +16,8 @@ Currently, I am focused on mastering **.NET** and deepening my knowledge in **Ba
 * **Learning:** Currently focusing on database design and backend architecture.
 
 ### 📬 Let's Connect
-* [LinkedIn](www.linkedin.com/in/abdelrhman-hamed-22361b346)
-* [Email](abdelr7man264@gmail.com)
+* [LinkedIn] www.linkedin.com/in/abdelrhman-hamed-22361b346
+* [Email] abdelr7man264@gmail.com
 
 ---
 *Always learning, always coding.*
